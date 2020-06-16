@@ -15,6 +15,8 @@ I also get a small kickback so if you liked this project please use my link :)
 
 https://m.do.co/c/bd80643300bd 
 
+<a href="https://www.buymeacoffee.com/pry0cc" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" style="height: 10px !important;width: 50px !important;" ></a>
+
 Happy hacking! :)
 
 ![](https://raw.githubusercontent.com/pry0cc/axiom/master/screenshots/axiom-demo.gif)
